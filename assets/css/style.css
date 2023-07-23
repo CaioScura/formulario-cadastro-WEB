@@ -253,6 +253,7 @@ body {
     .container {
         width: 90%;
         height: auto;
+        justify-content: center;
     }
     .input-group {
         flex-direction: column;
